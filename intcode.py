@@ -61,8 +61,6 @@ with open('input-day2') as fp:
                 if result == 19690720:
                     target_noun = noun
                     target_verb = verb
-                    noun = 99
-                    verb = 99
 
 print "target_noun = {} target_verb = {}".format(target_noun, target_verb)
 print "Finished"
